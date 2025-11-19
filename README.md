@@ -18,7 +18,7 @@
 
 ## 📂 Öne Çıkan Projelerim
 
-### 🔹 **MY-ODEV--I-240053035**
+### 🔹 **MY-Odevi-I-240053035**
 HTML,CSS ve JS ile hazırlanmış ödev projesi.  
 🔗 Repo: https://github.com/SadikBey/MY-ODEV--I-240053035
 
@@ -26,7 +26,7 @@ HTML,CSS ve JS ile hazırlanmış ödev projesi.
 Java ile hazırlanmış ödev projesi.  
 🔗 Repo: https://github.com/SadikBey/NYP-Odevi-I-240053035
 
-### 🔹 **VY-devl-I-240053035**
+### 🔹 **VY-Odevi-I-240053035**
 Java içerisinde veri yapıları ve algoritmalar konusu üzerine çalışma.  
 🔗 Repo: https://github.com/SadikBey/VY-devl-I-240053035
 
