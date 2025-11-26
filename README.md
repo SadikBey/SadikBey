@@ -67,8 +67,8 @@ Veri yapıları ve algoritmalara yönelik Java projesi.
 
 <p align="center">
   <a href="mailto:sc245454@gmail.com">
-    <img src="https://img.shields.io/badge/E-Mail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Mail-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://github.com/SadikBey">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -85,9 +85,10 @@ Veri yapıları ve algoritmalara yönelik Java projesi.
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SadikBey&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadikBey&layout=compact&theme=default" />
+  <img height="160" src="https://github-readme-stats-godkingjay.vercel.app/api?username=SadikBey&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=SadikBey&layout=compact&theme=default" />
 </p>
+
 
 ---
 
