@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Sadık%20Çetin&fontSize=43&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&color=1E90FF&center=true&vCenter=true&width=600&lines=Java+Geliştirici;Docker+%26+Linux+Explorer;Modern+Web+Arayüzleri;OOP+%2F+Algoritma+%2F+SQL;Sürekli+Öğrenme+ve+Gelişim+Odaklı">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=1E90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+Candidate;Docker+%26+Cloud+Enthusiast;Java+Backend+Specialist;Problem+Solver+%26+System+Architect;Always+Learning+Always+Improving">
 </p>
 
 ---
 
 ## 👋 Hakkımda
 
-Merhaba, ben **Sadık Çetin**. Yazılım geliştirme yolculuğumda Java ve nesne yönelimli programlama ile temelimi attım. Şu an bu temel üzerine **Docker**, **Linux (WSL2)** ve **Modern Web** teknolojilerini ekleyerek kendimi çok yönlü (Full-Stack & DevOps) bir geliştirici olarak hazırlıyorum. Temiz kod, sürdürülebilir sistemler ve sürekli öğrenme benim için bir yaşam biçimi.
+<p align="left">
+  <img src="https://img.shields.io/badge/Software_Developer-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+Merhaba, ben **Sadık Çetin**. Yazılım dünyasında kendimi çok yönlü geliştirmeyi hedefleyen bir geliştirici adayıyım.  
+Java ve Web teknolojilerinin yanı sıra, son dönemde **Docker** ve **Linux (WSL2)** ekosistemine yoğunlaşarak projelerimi konteynerize etmeye başladım. Temiz kod prensiplerine ve modern DevOps araçlarını öğrenmeye önem veriyorum.
 
 ---
 
