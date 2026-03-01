@@ -49,7 +49,7 @@ Java dilinde nesne yönelimli programlama (OOP) prensipleri ve temel algoritmala
 
 ### 📊 **VY-Odevi-I-240053035**
 Veri yapıları ve karmaşık algoritmaların Java ile implementasyonu.
-🔗 [Projeyi İncele](https://github.com/SadikBey/VY-devl-I-240053035)
+🔗 [Projeyi İncele](https://github.com/SadikBey/VY-Odevi-I-240053035)
 
 ---
 
